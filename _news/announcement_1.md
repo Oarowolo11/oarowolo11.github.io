@@ -4,4 +4,4 @@ date: 2022-05-15 15:59:00-0400
 inline: true
 ---
 
-Awarded the Master of Science in Electrical and Computer Engineering by Carnegie Mellon University, Pittsburgh, USA
+Awarded the MS in ECE by Carnegie Mellon University, Pittsburgh, USA
