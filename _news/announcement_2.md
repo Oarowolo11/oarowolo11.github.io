@@ -3,6 +3,7 @@ layout: post
 title: Completed the CACTUS 3 months internship at RoLilab, Max Planck Institute for Biological Cybernetics, Tubingen Germany
 date: 2022-09-23 16:11:00-0400
 inline: false
+related_posts: false
 ---
 
 The CaCTüS Internship programme is aimed at boosting the careers of talented students who experience significant difficulties in their pursuit of higher education and scientific development. Interns get the chance to go to Tübingen or Stuttgart for a paid, three-months internship. The programme provides access to first-class scientific institutions, hands-on research experience and a scientific network in one of Germany’s leading locations for biological and artificial intelligence research
