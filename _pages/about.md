@@ -14,8 +14,8 @@ profile:
     <p>Delft, The Netherlands</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: False # includes a list of papers marked as "selected={true}"
+social: False  # includes social icons at the bottom of the page
 ---
 
 I am a PhD candidate in the [IEPG](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/electrical-sustainable-energy/intelligent-electrical-power-grids-iepg-group) group at Technical University, Delft. I am a member of the 
