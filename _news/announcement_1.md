@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the MS in ECE by Carnegie Mellon University, Pittsburgh, USA
+Completed my MS program in Electrical and Computer Engineering from Carnegie Mellon University
