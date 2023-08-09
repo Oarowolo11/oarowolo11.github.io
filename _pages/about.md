@@ -18,7 +18,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False  # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in the [IEPG](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/electrical-sustainable-energy/intelligent-electrical-power-grids-iepg-group) Delft University of Technology. I am a member of the 
+I am a PhD candidate in the [IEPG] group(https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/electrical-sustainable-energy/intelligent-electrical-power-grids-iepg-group) at Delft University of Technology. I am also a member of the 
 [DAI Energy Lab](https://www.tudelft.nl/ai/delft-ai-energy-lab) under the supervision of [Dr. J. Cremer](https://www.tudelft.nl/staff/j.l.cremer/) 
 
 My general research interest is applied machine learning for management and control of power grids. Currently, I am investigating geometric deep learning for electromagnetic transients simulation in power grids. 
