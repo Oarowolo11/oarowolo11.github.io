@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog post 1
+title: A minty look at GraphSAGE
 date: 2023-09-02 11:59:00-0400
 description: First blog post is coming soon
 categories: sample-posts external-services
