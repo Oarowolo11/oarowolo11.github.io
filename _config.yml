@@ -158,7 +158,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@layirowolo/up-nepa-1-61105fa54caa
+    rss_url: https://medium.com/@layirowolo/up-nepa-2-ed91a0c46aa4
 
 # -----------------------------------------------------------------------------
 # Collections
