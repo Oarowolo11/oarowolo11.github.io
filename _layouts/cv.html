@@ -3,9 +3,12 @@ layout: default
 ---
 <!-- layouts/cv.html -->
 {% if page.cv_pdf %}
-  <script type="text/javascript">
-    window.location.href = "{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}";
-  </script>
+<script type="text/javascript">
+  var link = document.createElement('a');
+  link.href = "{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}";
+  link.target = "_blank";
+  link.click();
+</script>
 {% else %}
   <div class="post">
     <header class="post-header">
