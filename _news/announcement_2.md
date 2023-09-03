@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Completed the CACTUS 3 months internship at RoLilab, Max Planck Institute for Biological Cybernetics, Tubingen Germany
-date: Sept 2023
+date: Sept 29, 2022
 inline: false
 related_posts: false
 ---
