@@ -150,7 +150,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: olayiwola # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -261,7 +261,7 @@ display_tags: [] # this tags will be dispalyed on the front page of your blog
 scholar:
 
   last_name: [Arowolo]
-  first_name: [Olayiwola]
+  first_name: [Olayiwola, F, Olayiwola Arowolo, Olayiwola F Arowolo]
 
   style: apa
   locale: en
